@@ -1,0 +1,142 @@
+
+
+body
+{
+margin:0;
+text-align:center;
+}
+.a{
+font-family:"French Script MT","Bold Oblique";
+font-size:60px;
+
+}
+.d{
+font-family:"French Script MT","Bold Oblique";
+font-size:20px;
+text-decoration:underline; 
+
+}
+h1{
+ font-family:"French Script MT";
+width:10%;
+margin:0 auto 0 auto;
+}
+.c{
+color:red;
+position:absolute;
+left:100px;
+top:70px:
+width:300px;
+height:70px;
+}
+
+.top-container
+{
+
+position:relative;
+}
+.pro{
+text-decoration:underline;
+}
+img.top-coloud{
+position:absolute;
+right:300px;
+top:50px:
+width:100px;
+background-color:red;
+}
+.bottom-container
+{
+width:200px;
+height:200px;
+}
+
+.n{
+font-family:"Javanesem Text","Bold Oblique";
+font-size:30px;
+
+}
+.p{
+font-family:"Javanese Text","Bold Oblique";
+font-size:20px;
+color:blue;
+}
+.q{
+font-family:"Poor Richard","Bold Oblique";
+font-size:20px;
+
+}
+.mine{
+background-color:#cce5ff;
+}
+.q1{
+font-family:"Poor Richard","Bold Oblique";
+font-size:15px;
+
+}
+.p1{
+font-family:"Javanese Text","Bold Oblique";
+font-size:20px;
+position:relative;
+color:blue;
+left:-32x;
+margin-bottom:-30px;
+}
+img.circle{
+border-radius:50%;
+heifht:70;
+width:70;
+position:absolute;
+left:400px;
+}
+.r{
+
+top:40px:
+width:150px;
+font-family:"Javanese Text","Bold Oblique";
+font-size:20px;
+position:absolute;
+left:350px;
+margin-top:-50px;
+color:blue;
+margin-bottom:900px;0px:
+
+}
+.b1
+{
+
+position:absolute;
+right:100px;
+top:70px:
+width:150px;
+height:150px;
+
+}
+.r1{
+font-family:"Poor Richard","Bold Oblique";
+font-size:15px;
+top:40px:
+width:150px;
+position:absolute;
+left:350px;
+margin-top:-20px;
+margin-bottom:900px;0px:
+
+}
+.q12{
+font-family:"Poor Richard","Bold Oblique";
+font-size:15px;
+margin-right:-80px;
+}
+.n1{
+font-family:"Javanesem Text","Bold Oblique";
+font-size:30px;
+margin-bottom:30px;
+}
+img.c1{
+
+heifht:400;
+width:270;
+position:absolute;
+left:140px;
+}
